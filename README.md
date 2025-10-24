@@ -15,3 +15,4 @@ library SillyStringUtils {
         return string.concat(_input, unicode" 🤷");
     }
 }
+5
